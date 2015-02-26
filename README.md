@@ -1,7 +1,7 @@
 Useful References
 =================
 
-Herein lie references that Team Colonel Panic finds useful to read
+Herein lie references that Team Colonel Panic finds useful to read or go to
 
 
 CTF Writeups
