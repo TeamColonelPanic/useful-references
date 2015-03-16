@@ -8,6 +8,7 @@ CTF Writeups
 ------------
 
 + [CTFs on GitHub](https://github.com/ctfs)
++ [Shell-Storm](http://shell-storm.org/repo/CTF/)
 
 Tips and Stuff
 --------------
