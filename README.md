@@ -29,3 +29,4 @@ Misc
 + [Sample PCAP Captures](http://wiki.wireshark.org/SampleCaptures)
 + [Password Dictionary (EN-rockyou)](https://github.com/TeamColonelPanic/tools/raw/master/password-dictionary/EN%20-%20rockyou.txt.bz2)
 + [HTML5 Security Cheatsheet](http://html5sec.org/)
++ [Shell-Storm shellcodes](http://shell-storm.org/shellcode/)
