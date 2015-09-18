@@ -14,6 +14,7 @@ Tips and Stuff
 --------------
 
 + [A Challenger's Handbook by Caesium](http://caesum.com/handbook/contents.htm)
++ [TrailOfBits CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
 
 Penetration Testing Platforms
 -----------------------------
