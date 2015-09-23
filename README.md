@@ -16,6 +16,11 @@ Tips and Stuff
 + [A Challenger's Handbook by Caesium](http://caesum.com/handbook/contents.htm)
 + [TrailOfBits CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
 
+Books/Tutorials on Specific Topics
+----------------------------------
+
++ [Reverse Engineering for Beginners Book](https://github.com/dennis714/RE-for-beginners)
+
 Penetration Testing Platforms
 -----------------------------
 
