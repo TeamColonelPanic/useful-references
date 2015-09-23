@@ -28,6 +28,7 @@ Penetration Testing Platforms
 + [Hacker.org](http://www.hacker.org/)
 + [Backdoor](https://backdoor.sdslabs.co/about)
 + [W3Challs](http://w3challs.com/about)
++ [Infosec Institute CTF](http://ctf.infosecinstitute.com/)
 
 Misc
 ----
