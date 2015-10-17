@@ -20,6 +20,8 @@ Books/Tutorials on Specific Topics
 ----------------------------------
 
 + [Reverse Engineering for Beginners Book](https://github.com/dennis714/RE-for-beginners)
++ [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
++ [Open Security Training](http://opensecuritytraining.info/)
 
 Penetration Testing Platforms
 -----------------------------
