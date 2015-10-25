@@ -23,6 +23,7 @@ Books/Tutorials on Specific Topics
 + [Reverse Engineering for Beginners Book](https://github.com/dennis714/RE-for-beginners)
 + [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 + [Open Security Training](http://opensecuritytraining.info/)
++ [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)
 
 Penetration Testing Platforms
 -----------------------------
