@@ -15,6 +15,7 @@ Tips and Stuff
 
 + [A Challenger's Handbook by Caesium](http://caesum.com/handbook/contents.htm)
 + [TrailOfBits CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
++ [Hackers Hut](https://www.win.tue.nl/~aeb/linux/hh/hh.html)
 
 Books/Tutorials on Specific Topics
 ----------------------------------
