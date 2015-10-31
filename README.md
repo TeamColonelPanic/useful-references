@@ -44,3 +44,4 @@ Misc
 + [OverAPI](http://overapi.com/) - Cheatsheets for every language
 + [Infosec Institute Tools and Resources](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/)
 + [VulnHub Resources](https://www.vulnhub.com/resources/)
++ [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
