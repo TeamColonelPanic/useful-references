@@ -24,6 +24,7 @@ Books/Tutorials on Specific Topics
 + [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 + [Open Security Training](http://opensecuritytraining.info/)
 + [sploitfun](https://sploitfun.wordpress.com/)
++ [Embedded Security CTF or Microcorruption](http://microcorruption.com/)
 
 Penetration Testing Platforms
 -----------------------------
