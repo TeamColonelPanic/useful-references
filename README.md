@@ -25,7 +25,6 @@ Books/Tutorials on Specific Topics
 + [Open Security Training](http://opensecuritytraining.info/)
 + [sploitfun](https://sploitfun.wordpress.com/)
 + [Embedded Security CTF or Microcorruption](http://microcorruption.com/)
-+ [Webhacking.kr](http://webhacking.kr/)
 
 Penetration Testing Platforms
 -----------------------------
@@ -36,6 +35,7 @@ Penetration Testing Platforms
 + [W3Challs](http://w3challs.com/about)
 + [Infosec Institute CTF](http://ctf.infosecinstitute.com/)
 + [ARMPWN](https://github.com/saelo/armpwn)
++ [Webhacking.kr](http://webhacking.kr/)
 
 Misc
 ----
