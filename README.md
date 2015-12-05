@@ -36,6 +36,7 @@ Penetration Testing Platforms
 + [Infosec Institute CTF](http://ctf.infosecinstitute.com/)
 + [ARMPWN](https://github.com/saelo/armpwn)
 + [Webhacking.kr](http://webhacking.kr/)
++ [Reverse Engineering Challenges](http://challenges.re/)
 
 Misc
 ----
