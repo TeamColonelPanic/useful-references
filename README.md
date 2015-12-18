@@ -37,6 +37,7 @@ Penetration Testing Platforms
 + [ARMPWN](https://github.com/saelo/armpwn)
 + [Webhacking.kr](http://webhacking.kr/)
 + [Reverse Engineering Challenges](http://challenges.re/)
++ [Electrica the Puzzle Challenge](http://www.caesum.com/game/) - Crypto, from the looks of it
 
 Misc
 ----
