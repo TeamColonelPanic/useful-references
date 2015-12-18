@@ -50,3 +50,4 @@ Misc
 + [VulnHub Resources](https://www.vulnhub.com/resources/) - and check out [vulnhub itself](https://www.vulnhub.com/)
 + [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
 + [Pentester's Lab Exercises](https://www.pentesterlab.com/exercises/) - A set of web exploitation excercises with different difficulties
++ [XSS Challenge Wiki](https://github.com/cure53/XSSChallengeWiki/wiki)
