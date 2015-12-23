@@ -52,3 +52,4 @@ Misc
 + [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
 + [Pentester's Lab Exercises](https://www.pentesterlab.com/exercises/) - A set of web exploitation excercises with different difficulties
 + [XSS Challenge Wiki](https://github.com/cure53/XSSChallengeWiki/wiki)
++ [SQL Injection Authentication Bypass Cheat Sheet](https://pentestlab.wordpress.com/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/)
