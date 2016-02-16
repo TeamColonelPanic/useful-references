@@ -26,6 +26,7 @@ Books/Tutorials on Specific Topics
 + [Open Security Training](http://opensecuritytraining.info/)
 + [sploitfun](https://sploitfun.wordpress.com/)
 + [Embedded Security CTF or Microcorruption](http://microcorruption.com/)
++ [Exercises for learning Reverse Engineering and Exploitation.](https://github.com/wapiflapi/exrs)
 
 Penetration Testing Platforms
 -----------------------------
