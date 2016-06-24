@@ -40,6 +40,13 @@ Penetration Testing Platforms
 + [Webhacking.kr](http://webhacking.kr/)
 + [Reverse Engineering Challenges](http://challenges.re/)
 + [Electrica the Puzzle Challenge](http://www.caesum.com/game/) - Crypto, from the looks of it
++ [Pwnable.kr](http://pwnable.kr/)
++ [Reversing.kr](http://reversing.kr/)
++ [Exploit-exercises](https://exploit-exercises.com/)
++ [OverTheWire](http://overthewire.org/)
++ [SmashTheStack](http://smashthestack.org/)
++ [RootMe](https://www.root-me.org/?lang=en)
++ [IO](http://io.netgarage.org/)
 
 Misc
 ----
