@@ -27,6 +27,7 @@ Books/Tutorials on Specific Topics
 + [sploitfun](https://sploitfun.wordpress.com/)
 + [Embedded Security CTF or Microcorruption](http://microcorruption.com/)
 + [Exercises for learning Reverse Engineering and Exploitation.](https://github.com/wapiflapi/exrs)
++ [FuzzySecurity Tutorials](http://www.fuzzysecurity.com/tutorials.html)
 
 Penetration Testing Platforms
 -----------------------------
