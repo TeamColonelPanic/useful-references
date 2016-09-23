@@ -64,3 +64,4 @@ Misc
 + [XSS Challenge Wiki](https://github.com/cure53/XSSChallengeWiki/wiki)
 + [SQL Injection Authentication Bypass Cheat Sheet](https://pentestlab.wordpress.com/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/)
 + [PHP LFI (Local File Inclusion), more powerful stuff](http://www.denimgroup.com/blog/denim_group/2013/08/php-protocol-and-local-file-inclusion.html) -- allows you to get source of php files etc.
++ [PHP File Inclusion](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
